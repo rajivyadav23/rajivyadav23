@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rajivyadav23
-- 👀 I’m interested in ...Mobile Application Development.
-- 🌱 I’m currently learning ...FLutter
+- 👀 I love to work on Flutter to make Mobile Application Development.
+- 🌱 I’m currently working on...FLutter
 - 💞️ I’m looking to collaborate on ...Flutter projetcs
 - 📫 How to reach me ...
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L71W76G)
 
 <!---
 rajivyadav23/rajivyadav23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
